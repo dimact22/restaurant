@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-min-width: 320px;
+    -fx-min-height: 40px;
+}
+.order-button{
+    -fx-font-size: 16px;
+    -fx-pref-width: 120px;
+}
