@@ -1,1 +1,1 @@
-This project was created for restaurant employees to create and issue receipts and view and change menus.
+This project was created for restaurant employees to create and issue receipts and view and change menus. To run and view the operation of the program, you need to install any compiler convenient for you and run the program from the Main class.
